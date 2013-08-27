@@ -84,6 +84,7 @@ Here is a list of the built-in methods:
 | user_name | 
 | phone_number | cell_phone | 
 | randomize([]) | randomize(1..4) | 
+| sequential([]) | sequential(1..4) |
 | mask -  #=num a=lower A=upper |
 | today(format = '%D') | tomorrow(format = '%D') |
 | yesterday(format = '%D') | 
